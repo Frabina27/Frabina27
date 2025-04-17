@@ -1,12 +1,12 @@
 ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
 <h1 align="left">Hello, I'm Frabina!</h1>
-<h3 align="left">Computer Science Major at the University of Texas at Dallas</h3>
+<h3 align="left">Passionate Computer Science Major at the University of Texas at Dallas!</h3>
 ---
 
 ### 💫 About Me
-- I'm a Sophomore @ UT Dallas majoring in Computer Science.
+- I'm a Sophomore at the University of Texas at Dallas majoring in Computer Science.
 - Currently building a lab-assisting robot with Arduino & CAD under Professor Tadesse Yonas
-- Researching engineering identity under Professor 
+- Researching engineering identity in RDesign Lab at UTD
 - Self taught UI/UX designer!
 - Google Developer Student Club Marketing Team
 
