@@ -1,6 +1,7 @@
 ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
 <h1 align="left">Hello, I'm Frabina!</h1>
 <h3 align="left">Passionate Computer Science Major at the University of Texas at Dallas!</h3>
+
 ---
 
 ### 💫 About Me
