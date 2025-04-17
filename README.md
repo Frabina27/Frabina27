@@ -18,9 +18,6 @@
   <a href="https://www.linkedin.com/in/frabinaedwin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="mailto:frabinaedwin@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" alt="Email" />
-  </a>
 </p>
 
 ---
