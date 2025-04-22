@@ -1,11 +1,9 @@
-<div style="background-color:#ba98d4; padding: 20px; border-radius: 10px;">
-
-₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✧ ₊
+***
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Frabina!;Welcome+to+my+Profile+:3&color=ba98d4)](https://git.io/typing-svg)
 
 <h3 align="left">Passionate Computer Science Major at the University of Texas at Dallas!</h3>
 
----
+***
 
 ### 💫 About Me
 - I'm a Sophomore at the University of Texas at Dallas majoring in Computer Science.
@@ -14,7 +12,7 @@
 - Self taught UI/UX designer!
 - Google Developer Student Club Marketing Team
 
----
+***
 
 ### 🤝 Connect with Me
 <p align="left">
@@ -23,7 +21,7 @@
   </a>
 </p>
 
----
+***
 
 ### 🌻 What I’m Currently Working On
 - Leading a web demo design project for a tech startup
@@ -40,5 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" style="margin-right: 30px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="45" style="margin-right: 30px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" style="margin-right: 30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" style="margin-right: 30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" style="margin-right: 30px;" />
+
 </p>
 ₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
