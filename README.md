@@ -1,7 +1,6 @@
 ***
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Frabina!;Welcome+to+my+Profile+:3&color=ba98d4)](https://git.io/typing-svg)
-
-<h3 align="left">Passionate Computer Science Major at the University of Texas at Dallas!</h3>
+<h4 align="left">Passionate Computer Science Major at the University of Texas at Dallas!</h3>
 
 ***
 
