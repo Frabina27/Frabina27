@@ -1,5 +1,8 @@
-₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✧ ₊˚
-<h1 align="left">Hello, I'm Frabina!</h1>
+<div style="background-color:#ba98d4; padding: 20px; border-radius: 10px;">
+
+₊˚ ✧ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⊱⋆⊰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✧ ₊
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Frabina!;Welcome+to+my+Profile+:3&color=ba98d4)](https://git.io/typing-svg)
+
 <h3 align="left">Passionate Computer Science Major at the University of Texas at Dallas!</h3>
 
 ---
