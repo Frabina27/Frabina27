@@ -24,10 +24,8 @@
 
 ### 🌻 What I’m Currently Working On
 - Making my portfolio! Stay tuned!!
-- Leading a web demo design project for a tech startup
 - Prototyping interfaces with Figma
 - Learning to build websites with React & Tailwind
-- Programming a robot that contribues in a lab setting!
 
 ---
 ### 🛠️ Languages & Tools
