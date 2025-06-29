@@ -6,10 +6,9 @@
 
 ### 💫 About Me
 - I'm a Sophomore at the University of Texas at Dallas majoring in Computer Science.
-- Currently building a lab-assisting robot with Arduino & CAD under Professor Tadesse Yonas
-- Researching engineering identity in RDesign Lab at UTD
 - Self taught UI/UX designer!
 - Google Developer Student Club Marketing Team
+- Part of Google Developer Student Club & ACM Development as well as ACM Archives at the UT Dallas!
 
 ***
 
