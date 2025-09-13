@@ -5,10 +5,10 @@
 ***
 
 ### 💫 About Me
-- I'm a Sophomore at the University of Texas at Dallas majoring in Computer Science.
+- I'm a Junior at the University of Texas at Dallas, majoring in Computer Science.
 - Self taught UI/UX designer!
-- Google Developer Student Club Marketing Team
-- Part of Google Developer Student Club & ACM Development as well as ACM Archives at the UT Dallas!
+- Google Developer Student Club 
+- ACM Dev & ACM Archives
 
 ***
 
@@ -22,9 +22,8 @@
 ***
 
 ### 🌻 What I’m Currently Working On
-- Making my portfolio! Stay tuned!!
-- Prototyping interfaces with Figma
-- Learning to build websites with React & Tailwind
+- Front-end of a secret website for class (Will publish soon!)
+- Learning to build websites with React & Tailwind!
 
 ---
 ### 🛠️ Languages & Tools
