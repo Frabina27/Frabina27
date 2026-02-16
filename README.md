@@ -20,12 +20,6 @@
 </p>
 
 ***
-
-### 🌻 What I’m Currently Working On
-- Front-end of a secret website for class (Will publish soon!)
-- Learning to build websites with React & Tailwind!
-- 30 Day Coding Challenge (hopefully the programs will get more difficult as the days go on) - 10/11 Start Date
-
 ---
 ### 🛠️ Languages & Tools
 <p align="center">
