@@ -4,9 +4,9 @@
 
 ### 🚀 About Me
 
-🌱 &nbsp;I'm currently learning **cybersecurity practices**  
-👯 &nbsp;I'm looking to collaborate on **security labs**  
-😄 &nbsp;Pronouns: **she/her**
+&nbsp;I'm currently learning **cybersecurity practices**  
+&nbsp;I'm looking to collaborate on **security labs**  
+&nbsp;Pronouns: **she/her**
 
 ### 🛠️ Tech Stack
 
