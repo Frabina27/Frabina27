@@ -2,17 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Frabina!;Welcome+to+my+Profile+:3&color=ba98d4)](https://git.io/typing-svg)
 <h4 align="left">Passionate Computer Science Major at the University of Texas at Dallas!</h3>
 
-***
-<p align="center">
-  <a href="https://github.com/Frabina27">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=698&text=Hello!%20I'm%20Frabina!" alt="Hello! I&#39;m Frabina!" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Passionate%20Computer%20Science%20Major%20at%20the%20University%20of%20Texas%20at%20Dallas!;I'm%20a%20Senior%20at%20the%20University%20of%20Texas%20at%20Dallas%2C%20majoring%20in%20Computer%20Science." alt="Typing headlines" />
-</p>
-
 ### 🚀 About Me
 
 🌱 &nbsp;I'm currently learning **cybersecurity practices**  
@@ -60,3 +49,4 @@
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/Frabina27">Frabina27</a></i></p>
+
